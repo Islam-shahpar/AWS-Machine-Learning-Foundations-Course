@@ -6,4 +6,4 @@ Lesson 3# Software Engineering Practices Part II
 Lesson 4# Introduction to Object Oriented Programming
 Lesson 5# Machine Learning with AWS Deep Composer
 Lesson 6# Dive Deeper into Machine Learning
-Lesson 7# Next
+Lesson 7# Next..

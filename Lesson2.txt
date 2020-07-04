@@ -1,0 +1,14 @@
+Lesson 2:
+ - Writing clean and modular code
+ - Writing effective code
+ - Code refactoring
+ - Proper Documentation
+ - Version controlling
+ 
+ #Clean and modular code:
+ - Production Code
+ - Modular Code
+ - Modules : Helps to write less code, collaborate, easy reuse
+ - Clean Code : Easy to read, Simple, concise
+ 
+ #
